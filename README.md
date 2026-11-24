@@ -1,2 +1,2 @@
-# colinha-github-foundations
-Anotações feitas, para tirar o certificado github foundations
+# Colinha Github Foundations
+Anotações feitas, para tirar o certificado GitHub Foundations
