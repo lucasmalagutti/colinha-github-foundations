@@ -134,6 +134,7 @@ git push
 ```
 
 ### Pull
+When we want to pull changes from our remote repo origin into our local repo
 ```gh
 git pull
 ```
