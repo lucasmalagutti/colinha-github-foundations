@@ -1,2 +1,2 @@
-# Colinha Github Foundations
-Anotações feitas, para tirar o certificado GitHub Foundations
+# Study Guide Github Foundations
+Notes taken in preparation for the GitHub Foundations certificate
